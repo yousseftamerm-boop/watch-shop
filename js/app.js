@@ -1,0 +1,1 @@
+document.querySelectorAll('.buy').forEach(b=>b.onclick=()=>alert('Demo cart!'));
